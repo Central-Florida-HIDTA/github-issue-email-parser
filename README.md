@@ -27,6 +27,12 @@ Not yet implemented:
 - Advanced HTML sanitization and robust MIME parsing
 - Rich dead-letter dashboard/metrics export
 
+## Downstream Forks
+
+For organizations that need local customizations while staying aligned with upstream:
+
+- `docs/DOWNSTREAM-FORK-WORKFLOW.md`
+
 ## Architecture
 
 ```mermaid
